@@ -1,4 +1,4 @@
-# 🚗 Système de Gestion d'une Agence de Location de Voiture
+# Système de Gestion d'une Agence de Location de Voiture
 
 > Application web complète pour la gestion d'une agence de location de voitures : parc automobile, clients, réservations et facturation — avec interface client et back-office administrateur.
 
